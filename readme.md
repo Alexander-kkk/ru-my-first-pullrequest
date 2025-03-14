@@ -2,7 +2,8 @@
 ## Greetings
 
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
-  
+
+Первому номеру приготовиться  
 Пора бы уже чтото дельное здесь писать  
 Пишу что-то дельное, но не уверен в том, что это что-то - дельное  
 Hello world!
@@ -148,6 +149,8 @@ Hello once more time
 foolin around @ 437i
 Hello from Krd!
 Hello from Yasnyi!  
-Greeting from YaM, Moscow!  
-Hello from Surgut :D  
-Hellonew zapis  
+Greeting from YaM, Moscow!
+Hello from Surgut! :D  
+Hi from Ufa, Mashinistov, 4  
+Hello from St.Petersburg  
+Hello from St.Petersburg one more time
